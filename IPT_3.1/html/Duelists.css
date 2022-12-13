@@ -1,0 +1,307 @@
+
+ul {
+    list-style-type: none;
+    width: 150px;
+    height: 100%;
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    left: 0%;
+}
+
+h1 {
+    font-family: Valorant;
+    left: 45%;
+;   position: fixed;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: rgb(59, 59, 59);
+    color: white;
+  }
+/*---------------------------------------------------*/
+
+.rectangle1_Sage {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 150px);
+    border-radius: 100px;
+}
+
+.Text{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Sage {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, -100px);
+    border-radius: 100px;
+}
+
+.rectangle3_Sage {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 0px);
+    border-radius: 100px;
+}
+
+.abt1 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+
+.rectangle1_Killjoy {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 250px);
+    border-radius: 100px;
+}
+
+.Text2{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Killjoy {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 0px);
+    border-radius: 100px;
+}
+
+.rectangle3_Killjoy {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 100px);
+    border-radius: 100px;
+}
+
+.abt2 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+.rectangle1_Cypher {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 350px);
+    border-radius: 100px;
+}
+
+.Text3{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Cypher {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 100px);
+    border-radius: 100px;
+}
+
+.rectangle3_Cypher {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 200px);
+    border-radius: 100px;
+}
+
+.abt3 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+
+.rectangle1_Chamber {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 400px);
+    border-radius: 100px;
+}
+
+.Text4{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Chamber {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 150px);
+    border-radius: 100px;
+}
+
+.rectangle3_Chamber {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 250px);
+    border-radius: 100px;
+}
+
+.abt4 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+/*---------------------------------------------------*/
+
+.rectangle1_Jett {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 400px);
+    border-radius: 100px;
+}
+
+.Text5{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Jett {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 150px);
+    border-radius: 100px;
+}
+
+.rectangle3_Jett {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 250px);
+    border-radius: 100px;
+}
+
+.abt5 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+/*---------------------------------------------------*/
+
+.rectangle1_Phoenix {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 450px);
+    border-radius: 100px;
+}
+
+.Text6{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Phoenix {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 200px);
+    border-radius: 100px;
+}
+
+.rectangle3_Phoenix {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 400px);
+    border-radius: 100px;
+}
+
+.abt6 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+@font-face {
+    font-family: Valorant;
+    src: url(Valorant_Font.ttf);
+}
+
+@font-face {
+    font-family: Lemon Milk;
+    src: url(LEMONMILK-RegularItalic.otf);
+}
+
+body {
+    background-image: url(Background_2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+p {
+    font-size: 100px;
+}
+
+.nav-bar {
+    column-count: 1;
+    column-gap: normal;
+    position: fixed;
+}
+
+.navigationbox {
+    float: left;
+    padding-bottom: 100%;
+    background-color: #4b4848;
+    border: 5px solid #00ff19;
+    padding-left: 35px;
+    text-align: top;
+    color: white;
+    width: 150px;
+  }
+
+  .img1 {
+    padding: 20px;
+    padding-left: 30px;
+  }

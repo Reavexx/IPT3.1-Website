@@ -1,0 +1,250 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    left: 0%;
+    top: 0%;
+    color: #705a5a;
+    display: inline-block;
+  }
+
+h1 {
+    font-family: Valorant;
+    left: 45%;
+;   position: fixed;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+li a:hover {
+    background-color: rgb(59, 59, 59);
+    color: white;
+  }
+  
+/*---------------------------------------------------*/
+
+.rectangle1_Sage {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 150px);
+    border-radius: 100px;
+}
+
+.Text{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+.rectangle2_Sage {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, -100px);
+    border-radius: 80px;
+}
+
+.rectangle3_Sage {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 0px);
+    border-radius: 100px;
+}
+
+.abt1 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+
+.rectangle1_Killjoy {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 300px);
+    border-radius: 100px;
+}
+
+.Text2{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Killjoy {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 50px);
+    border-radius: 100px;
+}
+
+.rectangle3_Killjoy {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 150px);
+    border-radius: 100px;
+}
+
+.abt2 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+.rectangle1_Cypher {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 400px);
+    border-radius: 100px;
+}
+
+.Text3{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Cypher {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 150px);
+    border-radius: 100px;
+}
+
+.rectangle3_Cypher {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 300px);
+    border-radius: 100px;
+}
+
+.abt3 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+/*---------------------------------------------------*/
+
+.rectangle1_Chamber {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(1150px, 475px);
+    border-radius: 100px;
+}
+
+.Text4{
+    font-size: 15px;
+    font-family: Lemon Milk;
+    padding: 15%;
+}
+
+.rectangle2_Chamber {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 225px);
+    border-radius: 100px;
+    object-fit: cover;
+}
+
+.img1{
+    padding: 10px;
+}
+
+.rectangle3_Chamber {
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    transform: translate(250px, 450px);
+    border-radius: 100px;
+}
+
+.abt4 {
+    margin: 60px;
+    margin-left: 100;
+    
+}
+
+/*---------------------------------------------------*/
+
+
+body {
+    background-image: url(Background_2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+p {
+    font-size: 100px;
+}
+
+.nav-bar {
+    column-count: 1;
+    column-gap: normal;
+    position: fixed;
+}
+
+.navigationbox {
+    float: left;
+    padding-bottom: 100%;
+    background-color: #705a5a;
+    border: 5px solid #fdfdfd;
+    padding-left: 35px;
+    text-align: top;
+    color: white;
+    width: 100%;
+    position: fixed;
+    height: max-content;
+  }
+
+  @font-face {
+    font-family: Valorant;
+    src: url(Valorant_Font.ttf);
+  }
+
+  @font-face {
+      font-family: Lemon Milk;
+      src: url(LEMONMILK-RegularItalic.otf);
+  }
+
+  ul {
+    list-style-type: none;
+    width: 150px;
+    height: 100%;
+    background-color: #000000;
+    vertical-align: top;
+    display: inline-block;
+    position: fixed;
+  }
+
+  .img1 {
+    padding: 20px;
+    padding-left: 30px;
+  }

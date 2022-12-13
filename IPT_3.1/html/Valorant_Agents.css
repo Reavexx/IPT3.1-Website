@@ -1,0 +1,83 @@
+body {
+  background-image: url(Valorant_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: Valorant; 
+  color: rgb(0, 0, 0);
+  font-size: 60px;
+  text-align:center;  
+}
+
+@font-face {
+  font-family: Valorant;
+  src: url(Valorant_Font.ttf);
+}
+
+.Text {
+  column-gap: normal;
+  right: 11%;
+
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 0;
+  width: 10%;
+  left: 0%;
+  top: 0%;
+
+  
+}
+
+li a {
+  display: block;
+  text-align: center;
+}
+
+
+.item {
+  order: 5; /* default is 0 */
+}
+
+ul {
+  list-style-type: none;
+  width: 150px;
+  height: 100%;
+  background-color: #000000;
+  vertical-align: top;
+  display: inline-block;
+  position: fixed;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: rgb(59, 59, 59);
+  color: white;
+}
+
+.disclaimer {
+  font-family: lemon milk;
+  margin-top: 650px;
+  text-align: justify;
+  text-align-last: left;
+  color: rgb(0, 0, 0);
+  transform: translate(15%, 30px);
+  font-size: 8px;
+}
+
+@font-face {
+  font-family: lemon milk;
+  src: url(LEMONMILK-RegularItalic.otf);
+}
+
